@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinazyq123" />
+- 📫 How to reach me: chinazyq@mail.ecust.edu.cn
