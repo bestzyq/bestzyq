@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinazyq123" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bestzyq" />
 
 - 📫 How to reach me: [chinazyq@mail.ecust.edu.cn](mailto:chinazyq@mail.ecust.edu.cn)
