@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**chinazyq123/chinazyq123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bestzyq/bestzyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bestzyq" />
+<!-- <img align="center" src="https://gh-stats-gen.vercel.app/api?username=bestzyq" /> -->
 
 - 📫 How to reach me: [chinazyq@mail.ecust.edu.cn](mailto:chinazyq@mail.ecust.edu.cn)
